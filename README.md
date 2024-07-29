@@ -11,7 +11,8 @@ Here we have project screenshot :
 
 
 Front Page:
-![screenshot](sky2.png)
+![screenshot](sky3.png)
+
 
 Login :
 ![screenshot](sky4.png)
@@ -24,7 +25,8 @@ Login :
 
 
 Registration :
-![screenshot](sky3.png)
+![screenshot](sky2.png)
+
 
 
 
