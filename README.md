@@ -11,13 +11,7 @@ Here we have project screenshot :
 
 
 Front Page:
-![screenshot](sky1.png)
-
-Login :
 ![screenshot](sky2.png)
-
-Registration :
-![screenshot](sky3.png)
 
 Login :
 ![screenshot](sky4.png)
@@ -25,8 +19,17 @@ Login :
 Registration :
 ![screenshot](sky5.png)
 
+Login :
+![screenshot](sky1.png)
+
+
+Registration :
+![screenshot](sky3.png)
+
+
+
 Raw Image:
-![screenshot](sleepy-mountains-5k-87.png)
+![screenshot](sleepy-mountains-5k-87.jpg)
 
 
 # Features:
